@@ -1,0 +1,1 @@
+#define NAMA "Yogi Eka Prastiya"
